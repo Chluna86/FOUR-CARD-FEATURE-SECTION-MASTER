@@ -126,7 +126,7 @@ p {
 }
 
 
-@media screen and (max-width: 420px) {
+@media (min-width: 650px) {
     .container {
         display: grid; 
         grid-template-columns: 1fr;
